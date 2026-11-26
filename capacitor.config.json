@@ -1,0 +1,8 @@
+{
+ "appId": "com.tintin.game",
+ "appName": "Tin-Tin",
+ "webDir": "www",
+ "server": {
+  "androidScheme": "https"
+ }
+}
